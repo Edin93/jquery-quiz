@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.article {
+  font-size: 1.25rem;
+  width: 30%;
+  margin-bottom: 15px;
+}
+
+.featured {
+  background-color: yellow;
+}
